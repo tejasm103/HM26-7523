@@ -56,7 +56,7 @@ Detailed local environment setup, containerized services, and test seed data are
 ```bash
 # Clone the repository
 git clone https://github.com/<TeamID>-submission.git
-cd <TeamID>-submission
+cd <HM26-7523>-submission
 
 # Install dependencies
 npm install
